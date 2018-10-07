@@ -1,0 +1,20 @@
+#*
+    First version with Snow*,  as an ASM-like
+*#
+
+% Main entry point
+main:
+
+    % We push "hello world!" inside the parameters
+    
+    push[param] "hello world !"
+    
+    % We call the first operation of the system, which is the output
+    % It takes everything in params in a reversed order (as long as they are strings)
+    sys 1
+    
+    % We don't need the value in the params anymore
+    pop [param]
+    
+    % and we finally interrupt the program. Nothing went wrong, we return 0
+    int 0
