@@ -1,12 +1,9 @@
-#include <iostream>
+#include <iostream> // std::cout, std::endl
+#include <cstdlib> // EXIT_SUCCESS
 
-#define UNUSED(x) (void)(x)
-
-int main(int argc, int argv)
+int main(int /*argc*/, char** /*argv*/) 
 {
-    UNUSED(argc);
-    UNUSED(argv);
-    std::cout << "hello world !" << std::endl;
-    
-    return EXIT_SUCESS;
+    std::cout << "hello world !" << std::endl;          
+
+    return EXIT_SUCCESS; // optional only for main() 
 }
