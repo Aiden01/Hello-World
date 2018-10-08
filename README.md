@@ -15,3 +15,4 @@ Hello world in your favorite languages!
 
 ## Other Awesome Contributors
 - Gage77 (https://github.com/Gage77)
+- vidu171 (https://github.com/vidu171)
