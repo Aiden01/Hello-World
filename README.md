@@ -18,3 +18,4 @@ Hello world in your favorite languages!
 - ra100 (https://github.com/ra100)
 - vidu171 (https://github.com/vidu171)
 - gabibguedes (https://github.com/gabibguedes)
+- djorkaeffalexandre (https://github.com/djorkaeffalexandre)
