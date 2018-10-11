@@ -19,3 +19,4 @@ Hello world in your favorite languages!
 - vidu171 (https://github.com/vidu171)
 - gabibguedes (https://github.com/gabibguedes)
 - djorkaeffalexandre (https://github.com/djorkaeffalexandre)
+- juanfrank7 (https://github.com/juanfrank7)
