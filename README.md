@@ -20,3 +20,4 @@ Hello world in your favorite languages!
 - gabibguedes (https://github.com/gabibguedes)
 - djorkaeffalexandre (https://github.com/djorkaeffalexandre)
 - juanfrank7 (https://github.com/juanfrank7)
+- adhavalboy (https://github.com/adhavalboy)
