@@ -26,3 +26,4 @@ Hello world in your favorite languages!
 - mahnouel (https://github.com/mahnouel)
 - shivanshseth (https://github.com/shivanshseth)
 - frewinchristopher (https://github.com/frewinchristopher)
+- LoicB (https://github.com/LoicB)
