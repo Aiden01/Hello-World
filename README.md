@@ -24,3 +24,4 @@ Hello world in your favorite languages!
 - ScottishRoss (https://github.com/ScottishRoss)
 - tulikavijay (https://github.com/tulikavijay)
 - mahnouel (https://github.com/mahnouel)
+- shivanshseth (https://github.com/shivanshseth)
