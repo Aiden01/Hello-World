@@ -28,3 +28,4 @@ Hello world in your favorite languages!
 - frewinchristopher (https://github.com/frewinchristopher)
 - LoicB (https://github.com/LoicB)
 - willakong (https://github.com/willakong)
+- dickyw71 (https://github.com/dickyw71)
