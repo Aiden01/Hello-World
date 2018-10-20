@@ -29,3 +29,4 @@ Hello world in your favorite languages!
 - LoicB (https://github.com/LoicB)
 - willakong (https://github.com/willakong)
 - dickyw71 (https://github.com/dickyw71)
+- Shhzdmrz (https://github.com/shhzdmrz)
