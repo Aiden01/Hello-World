@@ -6,16 +6,16 @@
 ╚╝░╚╩══╩═╩═╩══╝░╚╝╚╝╚══╩╝╚═╩══╝
 
 
-#compiler methods 
+#Compiling
 
-C language:
+## C language:
 1. gcc hello-world.c -o hello
 2. ./hello 
 
-CPP :
+## CPP :
 1. g++ hello-world.c -o hello
 2. ./hello 
 
-Python :
+## Python :
 1. python hello-world.py
 
