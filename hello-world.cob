@@ -1,5 +1,5 @@
         IDENTIFICATION DIVISION.
-        PROGRAM-ID. hello-word.
+        PROGRAM-ID. hello-world.
         PROCEDURE DIVISION.
-        DISPLAY "Hello Word!! :)".
+        DISPLAY "Hello World!! :)".
         STOP RUN.
