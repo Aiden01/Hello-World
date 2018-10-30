@@ -2,8 +2,8 @@
 ; Simple NASM syntax assembly program for x86 (32 bit).
 ;
 ; Use commands below to assemble, link and run ($ is the prompt):
-; $ nasm -f elf32 hello.asm
-; $ gcc -m32 -o hello hello.o
+; $ nasm -f elf32 hello-world.asm
+; $ gcc -m32 -o hello hello-world.o
 ; $ ./hello
 ; Hello, world!
 ;
